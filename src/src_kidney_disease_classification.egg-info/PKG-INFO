@@ -1,8 +1,11 @@
-Metadata-Version: 2.1
+Metadata-Version: 1.2
 Name: src-kidney-disease-classification
 Version: 0.0.0
 Summary: A small python package for CNN app
 Home-page: https://github.com/shameem11/kidney-disease-classification-using-mlflow--End-to-End-Project
 Author: shameem11
 Author-email: Shameemmon.mk@gmail.com
+License: UNKNOWN
 Project-URL: Bug Tracker, https://github.com/shameem11/kidney-disease-classification-using-mlflow--End-to-End-Project/issues
+Description: UNKNOWN
+Platform: UNKNOWN
