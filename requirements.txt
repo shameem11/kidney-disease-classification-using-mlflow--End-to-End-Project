@@ -1,0 +1,13 @@
+tensorflow==2.12.0 
+pandas 
+mlflow == 2.2.2 
+notebook 
+numpy 
+matplotlib
+seaborn
+python-box
+pyYAML
+tqdm
+Flask
+scipy
+-e .
