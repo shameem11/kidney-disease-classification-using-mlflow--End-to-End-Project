@@ -13,3 +13,4 @@ scipy
 -e .
 ensure
 gdown
+dvc

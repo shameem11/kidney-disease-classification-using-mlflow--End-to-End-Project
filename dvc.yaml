@@ -1,0 +1,34 @@
+stages: 
+     Data_ingestion:
+     cmd: src/kidneyDisease/pipeline/stage_01_data_ingestion.py
+     deps: 
+        -src/kidneyDisease/pipeline/stage_01_data_ingestion.py
+        -config/config.yaml
+      outs:
+       -artifacs/data_ingestion/kidney-ct-scan-image
+
+
+prepare_base_model:
+  cmd : src/kidneyDisease/pipeline/stage_02_prepare_base_model.py
+  deps : 
+     -src/kidneyDisease/pipeline/stage_02_prepare_base_model.py
+     --config/config.yaml
+  params:
+     
+     -IMAGE_SIZE
+     -BATCH_SIZE
+     -INCLUDE_TOP
+     -EPOCHS
+     -CLASSES
+     -WEIGHTS
+     -LEARNING_RATE
+  outs:
+     -artifacts/prepare_base_model
+
+
+Evaluation_model:
+   cmd:
+    
+     
+
+
