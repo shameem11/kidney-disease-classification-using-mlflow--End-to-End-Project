@@ -3,9 +3,10 @@ import os
 from kidneyDisease.utils.common import read_yaml, create_directories,save_json
 from kidneyDisease.entity.config_entity import (DataIngestionConfig,
                                                 PrepareBaseModelConfig,
-                                                TrainingConfig)
+                                                TrainingConfig,EvaluationConfig)
 
-
+import dagshub
+dagshub.init(repo_owner='shameemmon.mk', repo_name='kidney-disease-classification-using-mlflow--End-to-End-Project')
 
 
 class ConfigurationManager:
@@ -62,7 +63,7 @@ class ConfigurationManager:
         training = self.config.training
         prepare_base_model = self.config.prepare_base_model
         params = self.params
-        training_data = os.path.join(self.config.data_ingestion.unzip_dir, "kidney-ct-scan-image")
+        training_data = os.path.join(self.config.data_ingestion.unzip_dir,"kidney-ct-scan-image")
         create_directories([
             Path(training.root_dir)
         ])
@@ -79,3 +80,17 @@ class ConfigurationManager:
         )
 
         return training_config
+    
+    
+    
+
+    def get_evaluation_config(self) -> EvaluationConfig:
+        eval_config = EvaluationConfig(
+            path_of_model="artifacts/training/model.h5",
+            training_data="/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/artifacts/data_ingestion/kidney-ct-scan-image",
+            mlflow_uri="https://dagshub.com/shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project.mlflow",
+            all_params=self.params,
+            params_image_size=self.params.IMAGE_SIZE,
+            params_batch_size=self.params.BATCH_SIZE
+        )
+        return eval_config
