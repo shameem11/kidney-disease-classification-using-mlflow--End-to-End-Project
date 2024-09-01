@@ -752,3 +752,1840 @@ x==========x]
 [2024-08-28 22:40:22,590: INFO: main: >>>>>> stage Training completed <<<<<<
 
 x==========x]
+[2024-08-30 22:30:32,381: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-30 22:30:32,821: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-30 22:30:32,822: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-30 22:30:33,058: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-30 22:30:33,059: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-30 22:30:33,060: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-30 22:30:33,060: INFO: common: created directory at: artifacts]
+[2024-08-30 22:30:33,060: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-30 22:30:33,061: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 22:31:55,607: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 22:31:55,942: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-30 22:44:39,566: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-30 22:44:40,091: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-30 22:44:40,091: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-30 22:44:40,246: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-30 22:44:40,248: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-30 22:44:40,249: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-30 22:44:40,249: INFO: common: created directory at: artifacts]
+[2024-08-30 22:44:40,249: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-30 22:44:40,249: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 22:46:09,428: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 22:46:09,789: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-30 23:03:25,371: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-30 23:03:25,878: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-30 23:03:25,879: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-30 23:03:26,026: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-30 23:03:26,027: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-30 23:03:26,028: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-30 23:03:26,028: INFO: common: created directory at: artifacts]
+[2024-08-30 23:03:26,028: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-30 23:03:26,028: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:05:59,916: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:06:00,287: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-30 23:09:47,395: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-30 23:09:47,789: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-30 23:09:47,790: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-30 23:09:47,939: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-30 23:09:47,940: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-30 23:09:47,941: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-30 23:09:47,941: INFO: common: created directory at: artifacts]
+[2024-08-30 23:09:47,941: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-30 23:09:47,941: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:11:15,301: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:11:15,669: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-30 23:30:45,104: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-30 23:30:45,633: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-30 23:30:45,634: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-30 23:30:45,753: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-30 23:30:45,755: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-30 23:30:45,756: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-30 23:30:45,756: INFO: common: created directory at: artifacts]
+[2024-08-30 23:30:45,756: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-30 23:30:45,756: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:31:29,910: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:31:30,355: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-30 23:31:35,387: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-30 23:31:35,755: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-30 23:31:35,756: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-30 23:31:35,908: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-30 23:31:35,909: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-30 23:31:35,910: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-30 23:31:35,910: INFO: common: created directory at: artifacts]
+[2024-08-30 23:31:35,910: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-30 23:31:35,910: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:32:19,039: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:32:19,410: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-30 23:35:51,030: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-30 23:35:51,380: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-30 23:35:51,381: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-30 23:35:51,542: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-30 23:35:51,544: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-30 23:35:51,545: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-30 23:35:51,545: INFO: common: created directory at: artifacts]
+[2024-08-30 23:35:51,545: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-30 23:35:51,545: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:36:34,187: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:36:34,537: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-30 23:41:54,111: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-30 23:41:54,490: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-30 23:41:54,491: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-30 23:41:54,644: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-30 23:41:54,645: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-30 23:41:54,646: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-30 23:41:54,646: INFO: common: created directory at: artifacts]
+[2024-08-30 23:41:54,646: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-30 23:41:54,646: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:42:38,960: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:42:39,269: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-30 23:43:30,254: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-30 23:43:30,709: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-30 23:43:30,710: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-30 23:43:30,855: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-30 23:43:30,857: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-30 23:43:30,858: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-30 23:43:30,858: INFO: common: created directory at: artifacts]
+[2024-08-30 23:43:30,858: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-30 23:43:30,858: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:44:29,286: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-30 23:44:29,611: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 11:49:02,572: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 11:49:02,975: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 11:49:02,976: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 11:49:03,161: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 11:49:03,162: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 11:49:03,163: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 11:49:03,164: INFO: common: created directory at: artifacts]
+[2024-08-31 11:49:03,164: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 11:49:03,164: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 11:49:47,220: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 11:49:47,579: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 11:52:06,738: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 11:52:07,188: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 11:52:07,189: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 11:52:07,334: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 11:52:07,336: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 11:52:07,337: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 11:52:07,337: INFO: common: created directory at: artifacts]
+[2024-08-31 11:52:07,337: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 11:52:07,337: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 11:52:47,727: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 11:52:48,044: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 11:59:39,482: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 11:59:39,911: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 11:59:39,912: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 11:59:40,056: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 11:59:40,058: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 11:59:40,059: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 11:59:40,059: INFO: common: created directory at: artifacts]
+[2024-08-31 11:59:40,059: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 11:59:40,059: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:00:22,231: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:00:22,617: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 12:01:28,236: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 12:01:28,722: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 12:01:28,723: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 12:01:28,870: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 12:01:28,872: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:01:28,873: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:01:28,873: INFO: common: created directory at: artifacts]
+[2024-08-31 12:01:28,873: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:01:28,873: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:02:12,409: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:02:12,756: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 12:20:28,809: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:20:28,812: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:20:28,814: INFO: common: created directory at: artifacts]
+[2024-08-31 12:20:28,815: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:20:28,816: INFO: 4198171653: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:20:29,462: INFO: 4198171653: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:21:29,324: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:21:29,328: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:21:29,334: INFO: common: created directory at: artifacts]
+[2024-08-31 12:21:29,335: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:21:29,337: INFO: 627325189: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:21:30,031: INFO: 627325189: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:26:54,526: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:26:54,529: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:26:54,531: INFO: common: created directory at: artifacts]
+[2024-08-31 12:26:54,531: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:26:54,532: INFO: 627325189: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:26:55,861: INFO: 627325189: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:27:19,566: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 12:27:19,922: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 12:27:19,923: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 12:27:20,067: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 12:27:20,068: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:27:20,069: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:27:20,069: INFO: common: created directory at: artifacts]
+[2024-08-31 12:27:20,069: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:27:20,069: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:28:00,878: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:28:01,215: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 12:30:56,721: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 12:30:57,215: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 12:30:57,216: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 12:30:57,360: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 12:30:57,361: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:30:57,362: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:30:57,362: INFO: common: created directory at: artifacts]
+[2024-08-31 12:30:57,363: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:30:57,363: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:31:37,696: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:31:38,041: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 12:35:08,565: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 12:35:09,012: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 12:35:09,013: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 12:35:09,157: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 12:35:09,158: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:35:09,159: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:35:09,159: INFO: common: created directory at: artifacts]
+[2024-08-31 12:35:09,159: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:35:09,160: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:35:49,424: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:35:49,847: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 12:38:18,156: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 12:38:18,542: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 12:38:18,543: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 12:38:18,708: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 12:38:18,711: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:38:18,713: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:38:18,713: INFO: common: created directory at: artifacts]
+[2024-08-31 12:38:18,713: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:38:18,713: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:38:59,321: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:38:59,655: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 12:39:16,939: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 12:39:17,314: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 12:39:17,315: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 12:39:17,461: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 12:39:17,462: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:39:17,463: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:39:17,463: INFO: common: created directory at: artifacts]
+[2024-08-31 12:39:17,464: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:39:17,464: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:39:58,139: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:39:58,501: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 12:41:48,470: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 12:41:49,098: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 12:41:49,099: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 12:41:49,250: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 12:41:49,252: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:41:49,253: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:41:49,253: INFO: common: created directory at: artifacts]
+[2024-08-31 12:41:49,253: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:41:49,253: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:42:29,978: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:42:30,318: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 12:55:19,565: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:55:19,567: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:55:19,569: INFO: common: created directory at: artifacts]
+[2024-08-31 12:55:19,570: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:55:19,571: INFO: 690776229: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:56:07,705: INFO: 690776229: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:58:35,494: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 12:58:35,499: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 12:58:35,501: INFO: common: created directory at: artifacts]
+[2024-08-31 12:58:35,503: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 12:58:35,505: INFO: 4234704586: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 12:59:20,723: INFO: 4234704586: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:02:19,968: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:02:19,973: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:02:19,974: INFO: common: created directory at: artifacts]
+[2024-08-31 13:02:19,974: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:02:19,975: INFO: 4234704586: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:03:14,622: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:03:14,626: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:03:14,627: INFO: common: created directory at: artifacts]
+[2024-08-31 13:03:14,628: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:03:14,629: INFO: 4234704586: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:03:57,361: INFO: 4234704586: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:17:02,601: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:17:02,607: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:17:02,609: INFO: common: created directory at: artifacts]
+[2024-08-31 13:17:02,611: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:17:02,612: INFO: 3523396548: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:17:50,408: INFO: 3523396548: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:17:50,773: INFO: 3523396548: Extracted zip file to artifacs/data_ingestion]
+[2024-08-31 13:19:15,753: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:19:15,757: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:19:15,760: INFO: common: created directory at: artifacts]
+[2024-08-31 13:19:15,762: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:19:15,763: INFO: 3667416977: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:20:59,583: INFO: 3667416977: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:20:59,911: INFO: 3667416977: Extracted zip file to artifacs/data_ingestion]
+[2024-08-31 13:22:19,953: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:22:19,957: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:22:19,961: INFO: common: created directory at: artifacts]
+[2024-08-31 13:22:19,962: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:22:19,964: INFO: 246192452: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:23:26,305: INFO: 246192452: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:23:26,669: INFO: 246192452: Extracted zip file to artifacs/data_ingestion]
+[2024-08-31 13:26:22,327: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 13:26:22,905: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 13:26:22,905: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 13:26:23,053: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 13:26:23,055: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:26:23,056: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:26:23,056: INFO: common: created directory at: artifacts]
+[2024-08-31 13:26:23,056: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:26:23,056: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:27:41,656: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:27:42,002: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 13:29:36,514: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 13:29:36,956: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 13:29:36,957: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 13:29:37,103: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 13:29:37,104: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:29:37,105: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:29:37,105: INFO: common: created directory at: artifacts]
+[2024-08-31 13:29:37,105: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:29:37,105: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:30:33,104: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:30:33,480: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 13:42:41,096: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:42:41,098: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:42:41,099: INFO: common: created directory at: artifacts]
+[2024-08-31 13:42:41,100: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:42:41,101: INFO: 2932978449: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:43:37,817: INFO: 2932978449: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:43:37,818: INFO: 2932978449: Extracting zip file artifacts/data_ingestion/data.zip into folder artifacs/data_ingestion]
+[2024-08-31 13:43:38,165: INFO: 2932978449: Extracted zip file to artifacs/data_ingestion]
+[2024-08-31 13:45:13,966: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 13:45:14,477: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 13:45:14,478: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 13:45:14,622: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 13:45:14,624: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:45:14,624: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:45:14,625: INFO: common: created directory at: artifacts]
+[2024-08-31 13:45:14,625: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:45:14,625: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:45:57,931: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:45:58,292: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 13:47:28,274: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 13:47:28,723: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 13:47:28,724: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 13:47:28,869: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 13:47:28,870: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:47:28,871: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:47:28,871: INFO: common: created directory at: artifacts]
+[2024-08-31 13:47:28,871: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:47:28,871: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:48:24,186: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:48:24,536: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 13:51:31,348: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:51:31,354: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:51:31,359: INFO: common: created directory at: artifacts]
+[2024-08-31 13:51:31,362: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:51:31,365: INFO: 2189114077: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:52:19,516: INFO: 2189114077: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:52:19,517: INFO: 2189114077: Extracting zip file artifacts/data_ingestion/data.zip into folder artifacs/data_ingestion]
+[2024-08-31 13:52:19,863: INFO: 2189114077: Extracted zip file to artifacs/data_ingestion]
+[2024-08-31 13:53:50,930: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 13:53:51,375: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 13:53:51,376: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 13:53:54,786: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 13:53:54,787: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:53:54,788: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:53:54,788: INFO: common: created directory at: artifacts]
+[2024-08-31 13:53:54,788: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 13:53:54,788: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:54:35,609: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 13:54:35,967: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 13:54:35,967: INFO: main: *******************]
+[2024-08-31 13:54:35,967: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 13:54:35,968: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:54:35,969: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:54:35,969: INFO: common: created directory at: artifacts]
+[2024-08-31 13:54:35,969: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 13:54:36,735: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 13:54:36,987: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 13:54:36,987: INFO: main: *******************]
+[2024-08-31 13:54:36,987: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 13:54:36,988: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:54:36,989: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:54:36,989: INFO: common: created directory at: artifacts]
+[2024-08-31 13:54:36,989: INFO: common: created directory at: artificats/training]
+[2024-08-31 13:58:33,601: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 13:58:33,602: INFO: main: *******************]
+[2024-08-31 13:58:33,602: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 13:58:33,604: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 13:58:33,605: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 13:58:33,605: INFO: common: created directory at: artifacts]
+[2024-08-31 13:58:33,605: ERROR: main: 'ConfigurationManager' object has no attribute 'get_evaluation_config']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 16, in main
+    eval_config = config.get_evaluation_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_evaluation_config'
+[2024-08-31 14:03:33,041: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:03:33,045: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:03:33,046: INFO: common: created directory at: artifacts]
+[2024-08-31 14:09:08,971: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 14:09:09,381: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 14:09:09,382: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 14:09:11,325: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 14:09:11,326: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:09:11,334: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:09:11,334: INFO: common: created directory at: artifacts]
+[2024-08-31 14:09:11,334: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 14:09:11,334: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:09:18,856: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:09:19,234: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 14:09:19,235: INFO: main: *******************]
+[2024-08-31 14:09:19,235: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 14:09:19,236: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:09:19,237: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:09:19,237: INFO: common: created directory at: artifacts]
+[2024-08-31 14:09:19,237: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 14:09:20,029: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 14:09:20,417: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 14:09:20,417: INFO: main: *******************]
+[2024-08-31 14:09:20,417: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 14:09:20,418: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:09:20,419: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:09:20,419: INFO: common: created directory at: artifacts]
+[2024-08-31 14:09:20,419: INFO: common: created directory at: artificats/training]
+[2024-08-31 14:12:49,592: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 14:12:49,593: INFO: main: *******************]
+[2024-08-31 14:12:49,593: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 14:12:49,595: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:12:49,596: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:12:49,596: INFO: common: created directory at: artifacts]
+[2024-08-31 14:12:49,596: ERROR: main: 'ConfigurationManager' object has no attribute 'get_evaluation_config']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 16, in main
+    eval_config = config.get_evaluation_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_evaluation_config'
+[2024-08-31 14:16:08,063: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 14:16:08,512: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 14:16:08,513: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 14:16:12,193: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 14:16:12,194: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:16:12,195: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:16:12,195: INFO: common: created directory at: artifacts]
+[2024-08-31 14:16:12,195: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 14:16:12,195: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:16:21,764: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:16:22,120: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 14:16:22,120: INFO: main: *******************]
+[2024-08-31 14:16:22,120: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 14:16:22,121: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:16:22,122: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:16:22,122: INFO: common: created directory at: artifacts]
+[2024-08-31 14:16:22,122: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 14:16:22,951: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 14:16:23,466: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 14:16:23,466: INFO: main: *******************]
+[2024-08-31 14:16:23,466: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 14:16:23,468: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:16:23,469: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:16:23,469: INFO: common: created directory at: artifacts]
+[2024-08-31 14:16:23,470: INFO: common: created directory at: artificats/training]
+[2024-08-31 14:21:16,307: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 14:21:16,311: INFO: main: *******************]
+[2024-08-31 14:21:16,311: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 14:21:16,312: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:21:16,313: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:21:16,314: INFO: common: created directory at: artifacts]
+[2024-08-31 14:21:16,599: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 14:29:16,849: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:29:16,853: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:29:16,854: INFO: common: created directory at: artifacts]
+[2024-08-31 14:29:16,855: INFO: common: created directory at: artificats/training]
+[2024-08-31 14:29:58,037: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:29:58,042: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:29:58,043: INFO: common: created directory at: artifacts]
+[2024-08-31 14:31:48,578: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:31:48,581: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:31:48,582: INFO: common: created directory at: artifacts]
+[2024-08-31 14:31:48,583: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 14:31:48,583: INFO: 2189114077: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:31:56,892: INFO: 2189114077: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:31:56,893: INFO: 2189114077: Extracting zip file artifacts/data_ingestion/data.zip into folder artifacs/data_ingestion]
+[2024-08-31 14:31:57,286: INFO: 2189114077: Extracted zip file to artifacs/data_ingestion]
+[2024-08-31 14:33:28,219: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:33:28,223: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:33:28,224: INFO: common: created directory at: artifacts]
+[2024-08-31 14:33:28,226: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 14:33:29,130: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 14:35:00,792: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:35:00,795: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:35:00,796: INFO: common: created directory at: artifacts]
+[2024-08-31 14:35:00,798: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 14:35:00,799: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:35:08,484: INFO: 986331348: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:35:28,568: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:35:28,573: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:35:28,574: INFO: common: created directory at: artifacts]
+[2024-08-31 14:35:28,575: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 14:35:29,353: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 14:35:43,262: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:35:43,265: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:35:43,266: INFO: common: created directory at: artifacts]
+[2024-08-31 14:35:43,268: INFO: common: created directory at: artificats/training]
+[2024-08-31 14:49:42,159: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 14:49:42,632: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 14:49:42,633: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 14:49:44,507: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 14:49:44,516: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:49:44,518: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:49:44,519: INFO: common: created directory at: artifacts]
+[2024-08-31 14:49:44,519: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 14:49:44,519: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:49:51,986: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:49:52,335: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 14:49:52,335: INFO: main: *******************]
+[2024-08-31 14:49:52,335: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 14:49:52,336: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:49:52,337: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:49:52,337: INFO: common: created directory at: artifacts]
+[2024-08-31 14:49:52,337: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 14:49:53,120: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 14:49:53,453: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 14:49:53,453: INFO: main: *******************]
+[2024-08-31 14:49:53,453: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 14:49:53,456: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:49:53,457: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:49:53,457: INFO: common: created directory at: artifacts]
+[2024-08-31 14:49:53,457: INFO: common: created directory at: artificats/training]
+[2024-08-31 14:52:47,518: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 14:52:47,977: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 14:52:47,977: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 14:52:49,983: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 14:52:49,987: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:52:49,989: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:52:49,989: INFO: common: created directory at: artifacts]
+[2024-08-31 14:52:49,989: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 14:52:49,990: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:52:57,731: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 14:52:58,043: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 14:52:58,043: INFO: main: *******************]
+[2024-08-31 14:52:58,043: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 14:52:58,045: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:52:58,045: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:52:58,046: INFO: common: created directory at: artifacts]
+[2024-08-31 14:52:58,046: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 14:52:58,783: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 14:52:59,085: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 14:52:59,085: INFO: main: *******************]
+[2024-08-31 14:52:59,085: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 14:52:59,086: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:52:59,087: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:52:59,087: INFO: common: created directory at: artifacts]
+[2024-08-31 14:52:59,088: INFO: common: created directory at: artificats/training]
+[2024-08-31 14:57:01,068: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 14:57:01,068: INFO: main: *******************]
+[2024-08-31 14:57:01,068: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 14:57:01,072: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 14:57:01,075: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 14:57:01,078: INFO: common: created directory at: artifacts]
+[2024-08-31 14:57:01,605: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 15:00:39,587: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 15:00:40,013: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 15:00:40,013: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 15:00:43,304: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 15:00:43,305: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 15:00:43,306: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 15:00:43,306: INFO: common: created directory at: artifacts]
+[2024-08-31 15:00:43,306: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 15:00:43,306: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 15:00:53,364: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 15:00:53,680: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 15:00:53,680: INFO: main: *******************]
+[2024-08-31 15:00:53,680: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 15:00:53,681: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 15:00:53,682: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 15:00:53,682: INFO: common: created directory at: artifacts]
+[2024-08-31 15:00:53,682: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 15:00:54,476: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 15:00:54,760: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 15:00:54,760: INFO: main: *******************]
+[2024-08-31 15:00:54,760: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 15:00:54,763: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 15:00:54,765: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 15:00:54,765: INFO: common: created directory at: artifacts]
+[2024-08-31 15:00:54,766: INFO: common: created directory at: artificats/training]
+[2024-08-31 15:05:09,778: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 15:05:09,779: INFO: main: *******************]
+[2024-08-31 15:05:09,779: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 15:05:09,780: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 15:05:09,781: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 15:05:09,782: INFO: common: created directory at: artifacts]
+[2024-08-31 15:05:10,012: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 15:59:19,288: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 15:59:19,291: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 15:59:19,293: INFO: common: created directory at: artifacts]
+[2024-08-31 15:59:19,293: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 15:59:19,294: INFO: 2189114077: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 15:59:28,469: INFO: 2189114077: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 15:59:28,470: INFO: 2189114077: Extracting zip file artifacts/data_ingestion/data.zip into folder artifacs/data_ingestion]
+[2024-08-31 15:59:28,843: INFO: 2189114077: Extracted zip file to artifacs/data_ingestion]
+[2024-08-31 15:59:39,960: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 15:59:39,964: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 15:59:39,965: INFO: common: created directory at: artifacts]
+[2024-08-31 15:59:39,967: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 15:59:40,885: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 15:59:50,365: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 15:59:50,369: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 15:59:50,371: INFO: common: created directory at: artifacts]
+[2024-08-31 15:59:50,372: INFO: common: created directory at: artificats/training]
+[2024-08-31 16:41:05,005: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 16:41:05,015: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 16:41:05,018: INFO: common: created directory at: artifacts]
+[2024-08-31 16:41:05,021: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 16:41:05,024: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 16:41:12,264: INFO: 986331348: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 16:41:44,935: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 16:41:44,939: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 16:41:44,940: INFO: common: created directory at: artifacts]
+[2024-08-31 16:41:44,941: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 16:41:45,772: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 16:43:56,355: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 16:43:56,358: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 16:43:56,359: INFO: common: created directory at: artifacts]
+[2024-08-31 16:43:56,360: INFO: common: created directory at: artificats/training]
+[2024-08-31 17:35:05,885: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 17:35:05,889: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 17:35:05,893: INFO: common: created directory at: artifacts]
+[2024-08-31 17:35:05,895: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 17:35:05,896: INFO: 2189114077: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 17:35:16,501: INFO: 2189114077: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 17:35:16,502: INFO: 2189114077: Extracting zip file artifacts/data_ingestion/data.zip into folder artifacs/data_ingestion]
+[2024-08-31 17:35:16,859: INFO: 2189114077: Extracted zip file to artifacs/data_ingestion]
+[2024-08-31 17:35:28,767: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 17:35:28,769: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 17:35:28,770: INFO: common: created directory at: artifacts]
+[2024-08-31 17:35:28,771: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 17:35:29,619: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 17:36:25,547: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 17:36:25,551: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 17:36:25,553: INFO: common: created directory at: artifacts]
+[2024-08-31 17:36:25,555: INFO: common: created directory at: artificats/training]
+[2024-08-31 17:45:37,562: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 17:45:37,566: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 17:45:37,567: INFO: common: created directory at: artifacts]
+[2024-08-31 17:47:46,928: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 17:47:46,933: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 17:48:09,144: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 17:48:09,147: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 17:48:09,149: INFO: common: created directory at: artifacts]
+[2024-08-31 17:49:44,262: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 17:49:44,265: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 17:49:44,266: INFO: common: created directory at: artifacts]
+[2024-08-31 17:50:09,395: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 17:50:09,399: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 17:50:09,400: INFO: common: created directory at: artifacts]
+[2024-08-31 17:53:47,080: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 17:53:47,084: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 17:53:47,085: INFO: common: created directory at: artifacts]
+[2024-08-31 17:54:03,381: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-08-31 17:54:03,870: INFO: builder_impl: Assets written to: /tmp/tmp9th4ignw/model/data/model/assets]
+[2024-08-31 17:56:17,712: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 17:56:18,276: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 17:56:18,277: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 17:56:20,910: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 17:56:20,911: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 17:56:20,912: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 17:56:20,912: INFO: common: created directory at: artifacts]
+[2024-08-31 17:56:20,912: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 17:56:20,913: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 17:56:28,883: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 17:56:29,301: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 17:56:29,301: INFO: main: *******************]
+[2024-08-31 17:56:29,301: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 17:56:29,302: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 17:56:29,303: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 17:56:29,303: INFO: common: created directory at: artifacts]
+[2024-08-31 17:56:29,303: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 17:56:30,202: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 17:56:30,632: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 17:56:30,632: INFO: main: *******************]
+[2024-08-31 17:56:30,632: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 17:56:30,634: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 17:56:30,634: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 17:56:30,635: INFO: common: created directory at: artifacts]
+[2024-08-31 17:56:30,635: INFO: common: created directory at: artificats/training]
+[2024-08-31 18:00:38,825: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 18:00:38,826: INFO: main: *******************]
+[2024-08-31 18:00:38,826: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 18:00:38,834: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:00:38,840: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:00:38,843: INFO: common: created directory at: artifacts]
+[2024-08-31 18:00:39,174: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 18:03:45,512: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 18:03:45,907: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 18:03:45,908: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 18:03:49,670: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 18:03:49,671: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:03:49,672: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:03:49,672: INFO: common: created directory at: artifacts]
+[2024-08-31 18:03:49,673: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 18:03:49,673: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 18:03:56,958: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 18:03:57,339: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 18:03:57,339: INFO: main: *******************]
+[2024-08-31 18:03:57,339: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 18:03:57,340: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:03:57,341: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:03:57,341: INFO: common: created directory at: artifacts]
+[2024-08-31 18:03:57,341: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 18:03:58,183: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 18:03:58,612: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 18:03:58,612: INFO: main: *******************]
+[2024-08-31 18:03:58,613: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 18:03:58,614: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:03:58,615: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:03:58,615: INFO: common: created directory at: artifacts]
+[2024-08-31 18:03:58,615: INFO: common: created directory at: artificats/training]
+[2024-08-31 18:08:14,114: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 18:08:14,114: INFO: main: *******************]
+[2024-08-31 18:08:14,114: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 18:08:14,118: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:08:14,121: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:08:14,121: INFO: common: created directory at: artifacts]
+[2024-08-31 18:08:14,428: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 18:16:29,344: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 18:16:29,749: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 18:16:29,750: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 18:16:32,945: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 18:16:32,947: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:16:32,948: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:16:32,949: INFO: common: created directory at: artifacts]
+[2024-08-31 18:16:32,949: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 18:16:32,949: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 18:16:40,820: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 18:16:41,290: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 18:16:41,290: INFO: main: *******************]
+[2024-08-31 18:16:41,290: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 18:16:41,292: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:16:41,293: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:16:41,293: INFO: common: created directory at: artifacts]
+[2024-08-31 18:16:41,293: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 18:16:42,155: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 18:16:42,565: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 18:16:42,565: INFO: main: *******************]
+[2024-08-31 18:16:42,565: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 18:16:42,566: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:16:42,567: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:16:42,568: INFO: common: created directory at: artifacts]
+[2024-08-31 18:16:42,568: INFO: common: created directory at: artificats/training]
+[2024-08-31 18:20:12,533: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 18:20:12,534: INFO: main: *******************]
+[2024-08-31 18:20:12,534: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 18:20:12,536: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:20:12,537: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:20:12,537: INFO: common: created directory at: artifacts]
+[2024-08-31 18:20:12,778: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 18:23:22,577: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:23:22,580: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:23:22,582: INFO: common: created directory at: artifacts]
+[2024-08-31 18:23:22,583: INFO: common: created directory at: artificats/training]
+[2024-08-31 18:29:25,111: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:29:25,115: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:29:25,117: INFO: common: created directory at: artifacts]
+[2024-08-31 18:29:43,074: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-08-31 18:29:43,612: INFO: builder_impl: Assets written to: /tmp/tmpk028kupu/model/data/model/assets]
+[2024-08-31 18:42:19,139: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 18:42:19,520: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 18:42:19,521: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 18:42:23,291: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 18:42:23,293: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:42:23,294: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:42:23,294: INFO: common: created directory at: artifacts]
+[2024-08-31 18:42:23,294: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 18:42:23,294: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 18:42:31,344: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 18:42:31,690: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 18:42:31,690: INFO: main: *******************]
+[2024-08-31 18:42:31,690: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 18:42:31,691: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:42:31,692: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:42:31,692: INFO: common: created directory at: artifacts]
+[2024-08-31 18:42:31,692: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 18:42:32,536: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 18:42:32,850: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 18:42:32,850: INFO: main: *******************]
+[2024-08-31 18:42:32,850: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 18:42:32,851: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:42:32,852: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:42:32,852: INFO: common: created directory at: artifacts]
+[2024-08-31 18:42:32,852: INFO: common: created directory at: artificats/training]
+[2024-08-31 18:45:50,187: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 18:45:50,197: INFO: main: *******************]
+[2024-08-31 18:45:50,198: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 18:45:50,202: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:45:50,206: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:45:50,208: INFO: common: created directory at: artifacts]
+[2024-08-31 18:45:50,448: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 18:55:55,047: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 18:55:55,464: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 18:55:55,465: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 18:55:55,599: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 18:55:55,600: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 18:55:55,601: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 18:55:55,601: INFO: common: created directory at: artifacts]
+[2024-08-31 18:55:55,601: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 18:55:55,601: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 18:56:06,291: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 18:56:06,639: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 19:01:13,539: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 19:01:13,900: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 19:01:13,901: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 19:01:14,001: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 19:01:14,002: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:01:14,003: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:01:14,003: INFO: common: created directory at: artifacts]
+[2024-08-31 19:01:14,003: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 19:01:14,003: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:01:21,878: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:01:22,237: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 19:01:45,150: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 19:01:45,525: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 19:01:45,526: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 19:01:45,631: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 19:01:45,632: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:01:45,633: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:01:45,633: INFO: common: created directory at: artifacts]
+[2024-08-31 19:01:45,633: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 19:01:45,633: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:01:52,804: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1w0uM3pK-bXDkGEe1kRTuObX_ThC5ZciK/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:01:53,156: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 19:06:00,096: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 19:06:00,452: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 19:06:00,453: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 19:06:03,744: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 19:06:03,745: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:06:03,746: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:06:03,747: INFO: common: created directory at: artifacts]
+[2024-08-31 19:06:03,747: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 19:06:03,747: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:06:10,531: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:06:10,881: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 19:06:10,881: INFO: main: *******************]
+[2024-08-31 19:06:10,881: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 19:06:10,882: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:06:10,883: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:06:10,883: INFO: common: created directory at: artifacts]
+[2024-08-31 19:06:10,884: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 19:06:11,678: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 19:06:11,920: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 19:06:11,920: INFO: main: *******************]
+[2024-08-31 19:06:11,920: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 19:06:11,922: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:06:11,923: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:06:11,923: INFO: common: created directory at: artifacts]
+[2024-08-31 19:06:11,923: INFO: common: created directory at: artificats/training]
+[2024-08-31 19:07:07,962: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 19:07:07,962: INFO: main: *******************]
+[2024-08-31 19:07:07,962: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 19:07:07,963: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:07:07,964: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:07:07,965: INFO: common: created directory at: artifacts]
+[2024-08-31 19:07:07,965: ERROR: main: __init__() got an unexpected keyword argument 'mlflow_uri']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 16, in main
+    eval_config = config.get_evaluation_config()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/config/configuration.py", line 88, in get_evaluation_config
+    eval_config = EvaluationConfig(
+TypeError: __init__() got an unexpected keyword argument 'mlflow_uri'
+[2024-08-31 19:15:37,785: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 19:15:38,272: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 19:15:38,272: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 19:15:41,415: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 19:15:41,416: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:15:41,417: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:15:41,417: INFO: common: created directory at: artifacts]
+[2024-08-31 19:15:41,417: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 19:15:41,417: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:15:49,597: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:15:49,990: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 19:15:49,990: INFO: main: *******************]
+[2024-08-31 19:15:49,990: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 19:15:49,991: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:15:49,992: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:15:49,992: INFO: common: created directory at: artifacts]
+[2024-08-31 19:15:49,992: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 19:15:50,849: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 19:15:51,239: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 19:15:51,239: INFO: main: *******************]
+[2024-08-31 19:15:51,239: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 19:15:51,241: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:15:51,241: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:15:51,242: INFO: common: created directory at: artifacts]
+[2024-08-31 19:15:51,242: INFO: common: created directory at: artificats/training]
+[2024-08-31 19:17:01,988: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 19:17:01,989: INFO: main: *******************]
+[2024-08-31 19:17:01,989: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 19:17:01,991: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:17:01,992: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:17:01,992: INFO: common: created directory at: artifacts]
+[2024-08-31 19:17:01,992: ERROR: main: __init__() got an unexpected keyword argument 'mlflow_uri']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 16, in main
+    eval_config = config.get_evaluation_config()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/config/configuration.py", line 88, in get_evaluation_config
+    eval_config = EvaluationConfig(
+TypeError: __init__() got an unexpected keyword argument 'mlflow_uri'
+[2024-08-31 19:21:22,849: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 19:21:23,242: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 19:21:23,244: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 19:21:26,233: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 19:21:26,235: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:21:26,236: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:21:26,237: INFO: common: created directory at: artifacts]
+[2024-08-31 19:21:26,237: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 19:21:26,237: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:21:33,805: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:21:34,217: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 19:21:34,217: INFO: main: *******************]
+[2024-08-31 19:21:34,217: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 19:21:34,218: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:21:34,219: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:21:34,219: INFO: common: created directory at: artifacts]
+[2024-08-31 19:21:34,219: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 19:21:35,045: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 19:21:35,376: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 19:21:35,377: INFO: main: *******************]
+[2024-08-31 19:21:35,377: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 19:21:35,380: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:21:35,382: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:21:35,382: INFO: common: created directory at: artifacts]
+[2024-08-31 19:21:35,382: INFO: common: created directory at: artificats/training]
+[2024-08-31 19:22:41,625: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 19:22:41,626: INFO: main: *******************]
+[2024-08-31 19:22:41,626: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 19:22:41,629: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:22:41,631: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:22:41,631: INFO: common: created directory at: artifacts]
+[2024-08-31 19:22:41,886: ERROR: main: [Errno 2] No such file or directory: 'artifacs/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacs/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 19:49:53,139: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 19:49:53,492: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 19:49:53,493: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 19:49:56,400: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 19:49:56,401: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:49:56,402: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:49:56,402: INFO: common: created directory at: artifacts]
+[2024-08-31 19:49:56,402: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 19:49:56,402: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:51:11,380: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 19:51:11,817: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 19:51:11,817: INFO: main: *******************]
+[2024-08-31 19:51:11,817: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 19:51:11,819: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:51:11,820: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:51:11,820: INFO: common: created directory at: artifacts]
+[2024-08-31 19:51:11,820: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 19:51:12,608: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 19:51:12,963: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 19:51:12,964: INFO: main: *******************]
+[2024-08-31 19:51:12,964: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 19:51:12,965: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:51:12,966: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:51:12,966: INFO: common: created directory at: artifacts]
+[2024-08-31 19:51:12,966: INFO: common: created directory at: artificats/training]
+[2024-08-31 19:52:23,844: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 19:52:23,846: INFO: main: *******************]
+[2024-08-31 19:52:23,846: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 19:52:23,848: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 19:52:23,849: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 19:52:23,849: INFO: common: created directory at: artifacts]
+[2024-08-31 19:52:24,111: ERROR: main: [Errno 2] No such file or directory: 'artifacs/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacs/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 20:17:31,469: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 20:17:31,922: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 20:17:31,923: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 20:17:35,488: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 20:17:35,489: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 20:17:35,491: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 20:17:35,491: INFO: common: created directory at: artifacts]
+[2024-08-31 20:17:35,491: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 20:17:35,491: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 20:18:31,965: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 20:18:32,415: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 20:18:32,415: INFO: main: *******************]
+[2024-08-31 20:18:32,415: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 20:18:32,417: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 20:18:32,417: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 20:18:32,418: INFO: common: created directory at: artifacts]
+[2024-08-31 20:18:32,418: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 20:18:33,360: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 20:18:33,770: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 20:18:33,770: INFO: main: *******************]
+[2024-08-31 20:18:33,770: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 20:18:33,772: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 20:18:33,772: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 20:18:33,773: INFO: common: created directory at: artifacts]
+[2024-08-31 20:18:33,773: INFO: common: created directory at: artificats/training]
+[2024-08-31 20:19:34,660: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 20:19:34,660: INFO: main: *******************]
+[2024-08-31 20:19:34,660: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 20:19:34,662: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 20:19:34,663: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 20:19:34,663: INFO: common: created directory at: artifacts]
+[2024-08-31 20:19:34,885: ERROR: main: [Errno 2] No such file or directory: 'artifacs/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacs/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 20:39:35,892: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 20:39:36,446: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 20:39:36,447: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 20:39:39,478: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 20:39:39,480: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 20:39:39,481: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 20:39:39,481: INFO: common: created directory at: artifacts]
+[2024-08-31 20:39:39,481: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 20:39:39,481: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 20:40:25,979: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 20:40:26,376: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 20:40:26,376: INFO: main: *******************]
+[2024-08-31 20:40:26,376: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 20:40:26,377: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 20:40:26,378: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 20:40:26,379: INFO: common: created directory at: artifacts]
+[2024-08-31 20:40:26,379: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 20:40:27,184: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 20:40:27,615: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 20:40:27,616: INFO: main: *******************]
+[2024-08-31 20:40:27,616: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 20:40:27,620: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 20:40:27,621: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 20:40:27,621: INFO: common: created directory at: artifacts]
+[2024-08-31 20:40:27,621: INFO: common: created directory at: artificats/training]
+[2024-08-31 20:41:30,546: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 20:41:30,546: INFO: main: *******************]
+[2024-08-31 20:41:30,546: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 20:41:30,550: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 20:41:30,552: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 20:41:30,553: INFO: common: created directory at: artifacts]
+[2024-08-31 20:41:30,796: ERROR: main: [Errno 2] No such file or directory: 'artifacs/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacs/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 21:53:23,376: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 21:53:23,757: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 21:53:23,758: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 21:53:27,124: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 21:53:27,125: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 21:53:27,126: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 21:53:27,127: INFO: common: created directory at: artifacts]
+[2024-08-31 21:53:27,127: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 21:53:27,127: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 21:54:08,206: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 21:54:08,547: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 21:54:08,547: INFO: main: *******************]
+[2024-08-31 21:54:08,547: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 21:54:08,548: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 21:54:08,549: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 21:54:08,549: INFO: common: created directory at: artifacts]
+[2024-08-31 21:54:08,549: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 21:54:09,603: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 21:54:09,934: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 21:54:09,934: INFO: main: *******************]
+[2024-08-31 21:54:09,934: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 21:54:09,935: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 21:54:09,936: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 21:54:09,936: INFO: common: created directory at: artifacts]
+[2024-08-31 21:54:09,937: INFO: common: created directory at: artificats/training]
+[2024-08-31 21:55:11,984: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 21:55:11,998: INFO: main: *******************]
+[2024-08-31 21:55:11,998: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 21:55:12,001: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 21:55:12,003: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 21:55:12,004: INFO: common: created directory at: artifacts]
+[2024-08-31 21:55:12,268: ERROR: main: [Errno 2] No such file or directory: 'artifacs/data_ingestion/kidney-ct-scan-image']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self._valid_generator()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/preprocessing/image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacs/data_ingestion/kidney-ct-scan-image'
+[2024-08-31 22:03:34,182: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 22:03:34,187: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 22:03:34,188: INFO: common: created directory at: artifacts]
+[2024-08-31 22:04:34,452: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 22:04:34,455: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 22:04:34,457: INFO: common: created directory at: artifacts]
+[2024-08-31 22:04:34,458: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 22:04:34,459: INFO: 2189114077: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 22:06:08,672: INFO: 2189114077: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 22:06:08,673: INFO: 2189114077: Extracting zip file artifacts/data_ingestion/data.zip into folder artifacts/data_ingestion]
+[2024-08-31 22:06:09,048: INFO: 2189114077: Extracted zip file to artifacts/data_ingestion]
+[2024-08-31 22:09:21,170: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 22:09:21,567: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 22:09:21,568: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 22:09:24,378: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 22:09:24,379: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 22:09:24,380: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 22:09:24,381: INFO: common: created directory at: artifacts]
+[2024-08-31 22:09:24,381: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 22:09:24,381: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 22:10:21,077: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 22:10:21,479: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 22:10:21,479: INFO: main: *******************]
+[2024-08-31 22:10:21,479: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 22:10:21,480: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 22:10:21,481: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 22:10:21,481: INFO: common: created directory at: artifacts]
+[2024-08-31 22:10:21,482: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 22:10:22,406: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 22:10:22,736: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 22:10:22,736: INFO: main: *******************]
+[2024-08-31 22:10:22,736: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 22:10:22,737: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 22:10:22,738: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 22:10:22,738: INFO: common: created directory at: artifacts]
+[2024-08-31 22:10:22,739: INFO: common: created directory at: artificats/training]
+[2024-08-31 22:11:22,921: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 22:11:22,929: INFO: main: *******************]
+[2024-08-31 22:11:22,929: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 22:11:22,930: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 22:11:22,931: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 22:11:22,931: INFO: common: created directory at: artifacts]
+[2024-08-31 22:11:22,931: ERROR: main: __init__() got an unexpected keyword argument 'mlflow_url']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 16, in main
+    eval_config = config.get_evaluation_config()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/config/configuration.py", line 88, in get_evaluation_config
+    eval_config = EvaluationConfig(
+TypeError: __init__() got an unexpected keyword argument 'mlflow_url'
+[2024-08-31 23:12:14,338: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 23:12:19,325: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 23:12:19,326: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 23:12:22,840: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 23:12:22,842: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:12:22,843: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:12:22,843: INFO: common: created directory at: artifacts]
+[2024-08-31 23:12:22,843: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 23:12:22,843: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 23:13:11,612: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 23:13:12,010: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 23:13:12,010: INFO: main: *******************]
+[2024-08-31 23:13:12,010: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 23:13:12,012: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:13:12,013: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:13:12,013: INFO: common: created directory at: artifacts]
+[2024-08-31 23:13:12,013: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 23:13:12,843: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 23:13:13,194: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 23:13:13,195: INFO: main: *******************]
+[2024-08-31 23:13:13,195: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 23:13:13,196: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:13:13,197: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:13:13,197: INFO: common: created directory at: artifacts]
+[2024-08-31 23:13:13,197: INFO: common: created directory at: artificats/training]
+[2024-08-31 23:14:20,431: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 23:14:20,432: INFO: main: *******************]
+[2024-08-31 23:14:20,432: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 23:14:20,433: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:14:20,435: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:14:20,435: INFO: common: created directory at: artifacts]
+[2024-08-31 23:14:20,435: ERROR: main: __init__() got an unexpected keyword argument 'mlflow_url']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 16, in main
+    eval_config = config.get_evaluation_config()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/config/configuration.py", line 88, in get_evaluation_config
+    eval_config = EvaluationConfig(
+TypeError: __init__() got an unexpected keyword argument 'mlflow_url'
+[2024-08-31 23:16:22,634: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 23:16:28,259: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 23:16:28,260: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 23:16:32,505: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 23:16:32,507: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:16:32,509: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:16:32,509: INFO: common: created directory at: artifacts]
+[2024-08-31 23:16:32,509: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 23:16:32,509: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 23:17:16,977: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 23:17:17,389: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 23:17:17,390: INFO: main: *******************]
+[2024-08-31 23:17:17,390: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 23:17:17,391: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:17:17,392: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:17:17,392: INFO: common: created directory at: artifacts]
+[2024-08-31 23:17:17,392: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 23:17:18,221: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 23:17:18,604: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 23:17:18,605: INFO: main: *******************]
+[2024-08-31 23:17:18,605: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 23:17:18,606: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:17:18,607: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:17:18,608: INFO: common: created directory at: artifacts]
+[2024-08-31 23:17:18,608: INFO: common: created directory at: artificats/training]
+[2024-08-31 23:18:52,351: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 23:18:52,351: INFO: main: *******************]
+[2024-08-31 23:18:52,351: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 23:18:52,355: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:18:52,356: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:18:52,357: INFO: common: created directory at: artifacts]
+[2024-08-31 23:18:52,357: ERROR: main: __init__() got an unexpected keyword argument 'mlflow_url']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 16, in main
+    eval_config = config.get_evaluation_config()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/config/configuration.py", line 88, in get_evaluation_config
+    eval_config = EvaluationConfig(
+TypeError: __init__() got an unexpected keyword argument 'mlflow_url'
+[2024-08-31 23:30:56,815: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 23:30:57,296: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 23:30:57,297: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 23:31:01,495: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 23:31:01,497: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:31:01,498: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:31:01,498: INFO: common: created directory at: artifacts]
+[2024-08-31 23:31:01,498: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 23:31:01,498: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 23:31:50,321: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 23:31:50,701: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 23:31:50,701: INFO: main: *******************]
+[2024-08-31 23:31:50,701: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 23:31:50,703: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:31:50,703: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:31:50,703: INFO: common: created directory at: artifacts]
+[2024-08-31 23:31:50,704: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 23:31:51,512: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 23:31:51,888: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 23:31:51,888: INFO: main: *******************]
+[2024-08-31 23:31:51,888: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 23:31:51,890: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:31:51,891: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:31:51,891: INFO: common: created directory at: artifacts]
+[2024-08-31 23:31:51,892: INFO: common: created directory at: artificats/training]
+[2024-08-31 23:33:30,381: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 23:33:30,382: INFO: main: *******************]
+[2024-08-31 23:33:30,382: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 23:33:30,385: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:33:30,387: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:33:30,387: INFO: common: created directory at: artifacts]
+[2024-08-31 23:33:30,389: ERROR: main: No file or directory found at artifacts/trainig/model.h5]
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self.model = self.load_model(self.config.path_of_model)
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 42, in load_model
+    return tf.keras.models.load_model(path)
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/saving/saving_api.py", line 212, in load_model
+    return legacy_sm_saving_lib.load_model(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/saving/legacy/save.py", line 230, in load_model
+    raise IOError(
+OSError: No file or directory found at artifacts/trainig/model.h5
+[2024-08-31 23:35:49,578: INFO: helpers: Accessing as shameemmon.mk]
+[2024-08-31 23:35:50,079: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-08-31 23:35:50,080: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-08-31 23:35:54,776: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-08-31 23:35:54,778: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:35:54,779: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:35:54,779: INFO: common: created directory at: artifacts]
+[2024-08-31 23:35:54,779: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-08-31 23:35:54,779: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 23:36:47,642: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-08-31 23:36:48,536: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-08-31 23:36:48,537: INFO: main: *******************]
+[2024-08-31 23:36:48,537: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-08-31 23:36:48,541: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:36:48,544: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:36:48,545: INFO: common: created directory at: artifacts]
+[2024-08-31 23:36:48,545: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-08-31 23:36:49,467: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-08-31 23:36:49,901: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-08-31 23:36:49,901: INFO: main: *******************]
+[2024-08-31 23:36:49,901: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-08-31 23:36:49,905: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:36:49,906: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:36:49,906: INFO: common: created directory at: artifacts]
+[2024-08-31 23:36:49,906: INFO: common: created directory at: artificats/training]
+[2024-08-31 23:38:17,128: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-08-31 23:38:17,130: INFO: main: *******************]
+[2024-08-31 23:38:17,130: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-08-31 23:38:17,132: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-08-31 23:38:17,133: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-31 23:38:17,133: INFO: common: created directory at: artifacts]
+[2024-08-31 23:38:17,134: ERROR: main: No file or directory found at artifacts/trainig/model.h5]
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    obj.main()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py", line 18, in main
+    evaluation.evaluation()
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 46, in evaluation
+    self.model = self.load_model(self.config.path_of_model)
+  File "/home/user/Desktop/data science/kidney-disease-classification-using-mlflow--End-to-End-Project/src/kidneyDisease/components/Model_Evaluation.py", line 42, in load_model
+    return tf.keras.models.load_model(path)
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/saving/saving_api.py", line 212, in load_model
+    return legacy_sm_saving_lib.load_model(
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/user/anaconda3/envs/kidney/lib/python3.8/site-packages/keras/saving/legacy/save.py", line 230, in load_model
+    raise IOError(
+OSError: No file or directory found at artifacts/trainig/model.h5
+[2024-09-01 12:18:59,545: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 12:18:59,894: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 12:18:59,895: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 12:19:03,259: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-01 12:19:03,260: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:19:03,261: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:19:03,261: INFO: common: created directory at: artifacts]
+[2024-09-01 12:19:03,262: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-01 12:19:03,262: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-01 12:20:08,680: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-01 12:20:09,037: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-01 12:20:09,037: INFO: main: *******************]
+[2024-09-01 12:20:09,037: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-09-01 12:20:09,038: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:20:09,039: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:20:09,039: INFO: common: created directory at: artifacts]
+[2024-09-01 12:20:09,039: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-09-01 12:20:09,864: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-01 12:20:10,131: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-09-01 12:20:10,132: INFO: main: *******************]
+[2024-09-01 12:20:10,132: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-09-01 12:20:10,133: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:20:10,134: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:20:10,134: INFO: common: created directory at: artifacts]
+[2024-09-01 12:20:10,134: INFO: common: created directory at: artificats/training]
+[2024-09-01 12:21:16,440: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-09-01 12:21:16,457: INFO: main: *******************]
+[2024-09-01 12:21:16,457: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-09-01 12:21:16,461: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:21:16,463: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:21:16,464: INFO: common: created directory at: artifacts]
+[2024-09-01 12:21:30,574: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-09-01 12:21:31,082: INFO: builder_impl: Assets written to: /tmp/tmpom622upy/model/data/model/assets]
+[2024-09-01 12:35:50,456: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 12:35:51,083: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 12:35:51,084: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 12:35:54,257: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-01 12:35:54,258: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:35:54,259: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:35:54,260: INFO: common: created directory at: artifacts]
+[2024-09-01 12:35:54,260: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-01 12:35:54,260: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-01 12:37:12,519: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-01 12:37:12,915: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-01 12:37:12,915: INFO: main: *******************]
+[2024-09-01 12:37:12,915: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-09-01 12:37:12,917: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:37:12,918: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:37:12,918: INFO: common: created directory at: artifacts]
+[2024-09-01 12:37:12,918: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-09-01 12:37:13,788: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-01 12:37:14,197: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-09-01 12:37:14,197: INFO: main: *******************]
+[2024-09-01 12:37:14,197: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-09-01 12:37:14,200: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:37:14,203: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:37:14,203: INFO: common: created directory at: artifacts]
+[2024-09-01 12:37:14,204: INFO: common: created directory at: artificats/training]
+[2024-09-01 12:39:18,925: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-09-01 12:39:18,929: INFO: main: *******************]
+[2024-09-01 12:39:18,929: INFO: main: >>>>>> stage Evaluation model started <<<<<<]
+[2024-09-01 12:39:18,932: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:39:18,933: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:39:18,933: INFO: common: created directory at: artifacts]
+[2024-09-01 12:39:36,235: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-09-01 12:39:36,824: INFO: builder_impl: Assets written to: /tmp/tmpqliekc8v/model/data/model/assets]
+[2024-09-01 12:46:45,682: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 12:46:46,141: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 12:46:46,141: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 12:46:46,399: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-01 12:46:46,403: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:46:46,404: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:46:46,404: INFO: common: created directory at: artifacts]
+[2024-09-01 12:46:46,404: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-01 12:46:46,405: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-01 12:47:37,730: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-01 12:47:38,047: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-01 12:47:40,313: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 12:47:40,673: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 12:47:40,674: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 12:47:42,703: INFO: stage_02_prepare_base_model: *******************]
+[2024-09-01 12:47:42,703: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2024-09-01 12:47:42,704: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:47:42,705: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:47:42,705: INFO: common: created directory at: artifacts]
+[2024-09-01 12:47:42,705: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-09-01 12:47:43,675: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-01 12:47:43,977: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-09-01 12:47:45,905: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 12:47:46,361: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 12:47:46,361: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 12:47:48,016: INFO: stage_03_model_training: *******************]
+[2024-09-01 12:47:48,016: INFO: stage_03_model_training: >>>>>> stage Training started <<<<<<]
+[2024-09-01 12:47:48,017: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:47:48,018: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:47:48,018: INFO: common: created directory at: artifacts]
+[2024-09-01 12:47:48,018: INFO: common: created directory at: artificats/training]
+[2024-09-01 12:48:48,271: INFO: stage_03_model_training: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-09-01 12:48:50,474: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 12:48:50,843: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 12:48:50,844: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 12:48:53,873: INFO: stage_4_Model_Evaluation: *******************]
+[2024-09-01 12:48:53,873: INFO: stage_4_Model_Evaluation: >>>>>> stage Model Evaluation With mlflow  started <<<<<<]
+[2024-09-01 12:48:53,874: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:48:53,875: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:48:53,875: INFO: common: created directory at: artifacts]
+[2024-09-01 12:49:07,253: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-09-01 12:49:07,682: INFO: builder_impl: Assets written to: /tmp/tmpre08gzhi/model/data/model/assets]
+[2024-09-01 12:57:48,224: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 12:57:48,647: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 12:57:48,648: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 12:57:48,815: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-01 12:57:48,816: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:57:48,817: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:57:48,817: INFO: common: created directory at: artifacts]
+[2024-09-01 12:57:48,817: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-01 12:57:48,817: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-01 12:58:58,812: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1KMsyBXonLkcfioZRYMYMsHr4RMMK9fN3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-01 12:58:59,171: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-01 12:59:03,452: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 12:59:04,085: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 12:59:04,086: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 12:59:06,718: INFO: stage_03_model_training: *******************]
+[2024-09-01 12:59:06,719: INFO: stage_03_model_training: >>>>>> stage Training started <<<<<<]
+[2024-09-01 12:59:06,720: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 12:59:06,721: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 12:59:06,721: INFO: common: created directory at: artifacts]
+[2024-09-01 12:59:06,721: INFO: common: created directory at: artificats/training]
+[2024-09-01 13:02:44,621: INFO: stage_03_model_training: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-09-01 13:02:47,290: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 13:02:47,975: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 13:02:47,976: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 13:02:51,396: INFO: stage_4_Model_Evaluation: *******************]
+[2024-09-01 13:02:51,397: INFO: stage_4_Model_Evaluation: >>>>>> stage Model Evaluation With mlflow  started <<<<<<]
+[2024-09-01 13:02:51,398: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 13:02:51,399: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 13:02:51,399: INFO: common: created directory at: artifacts]
+[2024-09-01 13:03:04,681: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-09-01 13:03:05,188: INFO: builder_impl: Assets written to: /tmp/tmp104z7pd8/model/data/model/assets]
+[2024-09-01 13:10:00,728: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 13:10:01,227: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 13:10:01,228: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 13:10:02,939: INFO: stage_4_Model_Evaluation: *******************]
+[2024-09-01 13:10:02,940: INFO: stage_4_Model_Evaluation: >>>>>> stage Model Evaluation With mlflow  started <<<<<<]
+[2024-09-01 13:10:02,941: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 13:10:02,942: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 13:10:02,942: INFO: common: created directory at: artifacts]
+[2024-09-01 13:10:16,276: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-09-01 13:10:16,707: INFO: builder_impl: Assets written to: /tmp/tmpue_d68f5/model/data/model/assets]
+[2024-09-01 13:13:04,295: INFO: stage_4_Model_Evaluation: >>>>>> stage Model Evaluation With mlflow  completed <<<<<<
+
+x==========x]
+[2024-09-01 13:19:35,009: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 13:19:35,369: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 13:19:35,369: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 13:19:37,427: INFO: stage_4_Model_Evaluation: *******************]
+[2024-09-01 13:19:37,428: INFO: stage_4_Model_Evaluation: >>>>>> stage Model Evaluation With mlflow  started <<<<<<]
+[2024-09-01 13:19:37,429: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 13:19:37,430: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 13:19:37,430: INFO: common: created directory at: artifacts]
+[2024-09-01 13:19:47,855: INFO: common: json file saved at: score.json]
+[2024-09-01 13:19:50,527: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-09-01 13:19:50,964: INFO: builder_impl: Assets written to: /tmp/tmp67yq3jo3/model/data/model/assets]
+[2024-09-01 13:22:49,137: INFO: stage_4_Model_Evaluation: >>>>>> stage Model Evaluation With mlflow  completed <<<<<<
+
+x==========x]
+[2024-09-01 13:24:43,008: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 13:24:43,507: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 13:24:43,508: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 13:24:45,770: INFO: stage_4_Model_Evaluation: *******************]
+[2024-09-01 13:24:45,770: INFO: stage_4_Model_Evaluation: >>>>>> stage Model Evaluation With mlflow  started <<<<<<]
+[2024-09-01 13:24:45,771: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 13:24:45,772: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 13:24:45,772: INFO: common: created directory at: artifacts]
+[2024-09-01 13:24:56,150: INFO: common: json file saved at: score.json]
+[2024-09-01 13:24:58,799: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-09-01 13:24:59,234: INFO: builder_impl: Assets written to: /tmp/tmpjucvug50/model/data/model/assets]
+[2024-09-01 13:27:45,931: INFO: stage_4_Model_Evaluation: >>>>>> stage Model Evaluation With mlflow  completed <<<<<<
+
+x==========x]
+[2024-09-01 13:30:11,295: INFO: helpers: Accessing as shameemmon.mk]
+[2024-09-01 13:30:12,005: INFO: helpers: Initialized MLflow to track repo "shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project"]
+[2024-09-01 13:30:12,006: INFO: helpers: Repository shameemmon.mk/kidney-disease-classification-using-mlflow--End-to-End-Project initialized!]
+[2024-09-01 13:30:13,958: INFO: stage_4_Model_Evaluation: *******************]
+[2024-09-01 13:30:13,958: INFO: stage_4_Model_Evaluation: >>>>>> stage Model Evaluation With mlflow  started <<<<<<]
+[2024-09-01 13:30:13,959: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-09-01 13:30:13,960: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 13:30:13,960: INFO: common: created directory at: artifacts]
+[2024-09-01 13:30:25,064: INFO: common: json file saved at: score.json]
+[2024-09-01 13:30:27,862: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-09-01 13:30:28,306: INFO: builder_impl: Assets written to: /tmp/tmpdy38k57n/model/data/model/assets]
+[2024-09-01 13:33:21,757: INFO: stage_4_Model_Evaluation: >>>>>> stage Model Evaluation With mlflow  completed <<<<<<
+
+x==========x]
