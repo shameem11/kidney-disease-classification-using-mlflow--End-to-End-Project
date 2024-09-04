@@ -1,52 +1,31 @@
-import tensorflow as tf
-import numpy as np 
+import numpy as np
 from tensorflow.keras.models import load_model
-from tensorflow.keras.preprocessing import image 
-import os 
-
-
-class PredictionPipline:
-    def __init__(self,filename) -> None:
-     self.filenamae=filename
-    
-
-
-    def prediction(self):
-       model = load_model(os.path.join("artifacts","training","model.h5"))
-
-
-       Image_Data = self.filenamae
-       test_image = image.load_img(Image_Data,targetsize = (244,244))
-       test_image = image.img_to_array(test_image)
-       test_image = np.expand_dims(test_image,axis=0)
-       result = np.argmax(model.predict(test_image),axis=1)
-       print(result)
+from tensorflow.keras.preprocessing import image
+import os
 
 
 
-       if result[0]== 1:
-          prediction = "Tumor affected CT-SCAN"
-          return prediction
-       else:
-          prediction= "Normal "
-          return
-
-
-
-
-
-
-
-
+class PredictionPipeline:
+    def __init__(self,filename):
+        self.filename =filename
 
 
     
-    
+    def predict(self):
+        # load model
+        model = load_model(os.path.join("artifacts","training", "model.h5"))
 
-    
 
+        imagename = self.filename
+        test_image = image.load_img(imagename, target_size = (224,224))
+        test_image = image.img_to_array(test_image)
+        test_image = np.expand_dims(test_image, axis = 0)
+        result = np.argmax(model.predict(test_image), axis=1)
+        print(result)
 
-    
-    
-    
-     
+        if result == 1:
+            prediction = 'Tumor'
+            return [{ "image" : prediction}]
+        else:
+            prediction = 'Normal'
+            return [{ "image" : prediction}]
