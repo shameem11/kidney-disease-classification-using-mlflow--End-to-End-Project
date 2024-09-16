@@ -17,10 +17,9 @@ class EvaluationPipline:
     evaluation = Evaluation(eval_config)
     evaluation.evaluation()
     evaluation.log_into_mlflow()
-<<<<<<< HEAD
+
     evaluation.save_score()
-=======
->>>>>>> ce5d2f84bca690b134ce989459c1ddfac9a74fac
+
 
 
 

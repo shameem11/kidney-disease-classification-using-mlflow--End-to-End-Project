@@ -3,6 +3,7 @@ import streamlit as st
 from kidneyDisease.pipeline.predition import PredictionPipeline
 from kidneyDisease.utils.common import decodeImage, encodeImageIntoBase64
 
+
 # Streamlit app
 def main():
     st.title("Kidney Disease Classification")

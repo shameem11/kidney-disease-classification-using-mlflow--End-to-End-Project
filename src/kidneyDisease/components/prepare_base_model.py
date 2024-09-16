@@ -1,5 +1,4 @@
 
-
 import os 
 import urllib.request as request 
 import tensorflow as tf 
@@ -24,11 +23,11 @@ class PrepareBaseModel:
     
 
     @staticmethod
-    def _prepare_full_model(model, classes, freeze_all, freeze_till, learning_rate):
+    def _prepare_full_model(model,classes,freeze_all,freeze_till,learning_rate):
         if freeze_all:
             for layer in model.layers:
                 model.trainable = False
-        elif (freeze_till is not None) and (freeze_till > 0):
+        elif (freeze_till is not None) and (freeze_till>0):
             for layer in model.layers[:-freeze_till]:
                 model.trainable = False
 
@@ -66,9 +65,7 @@ class PrepareBaseModel:
 
 
 
-
-
     @staticmethod
-    def save_model(path :Path, model: tf.keras.Model):
+    def save_model(path :Path, model:tf.keras.Model):
         model.save(path)
 
