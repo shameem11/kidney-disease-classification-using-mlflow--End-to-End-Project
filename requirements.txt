@@ -10,8 +10,10 @@ pyYAML
 tqdm
 Flask
 scipy
--e .
+
 ensure
 gdown
 dvc
 streamlit
+
+-e .
