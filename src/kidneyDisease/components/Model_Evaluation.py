@@ -17,7 +17,7 @@ class Evaluation:
 
         datagenerator_kwargs = dict(
             rescale = 1./255,
-            validation_split=0.30
+            validation_split=0.20
         )
 
         dataflow_kwargs = dict(
@@ -38,7 +38,7 @@ class Evaluation:
         )
 
     @staticmethod
-    def load_model(path:Path) -> tf.keras.Model:
+    def load_model(path:Path) -> tf.keras.models:
              return tf.keras.models.load_model(path)
         
 
@@ -46,19 +46,15 @@ class Evaluation:
              self.model = self.load_model(self.config.path_of_model)
              self._valid_generator()
              self.score = self.model.evaluate(self.valid_generator)
-             self.save_score()
 
 
     def save_score(self):
              score = {"loss":self.score[0],'accuracy':self.score[1]}
              save_json(path= Path ('score.json'),data=score)
 
-        
-    
-    
     
     def log_into_mlflow(self):
-        mlflow.set_registry_uri(self.config.mlflow_uri)
+        mlflow.set_registry_uri(self.config.mlflow_url)
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
         
         with mlflow.start_run():
@@ -73,6 +69,12 @@ class Evaluation:
                 mlflow.keras.log_model(self.model, "model", registered_model_name="VGG16Model")
             else:
                 mlflow.keras.log_model(self.model, "model")
+    
+      
+
+
+
+
     
       
 
