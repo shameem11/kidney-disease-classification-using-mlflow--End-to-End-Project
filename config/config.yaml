@@ -2,8 +2,8 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://drive.google.com/file/d/1RpQauJCUddpGcYtv_5J1pYCvtVZAPIuF/view?usp=drive_link
-  local_data_file: artifacts/data_ingestion/data.zip
+  source_URL: https://drive.google.com/file/d/1N2gRFetAGVl8Ub3G1tAcZ1jLI4VHYR6j/view?usp=sharingS
+  local_data_file: artifacts/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone.zip
   unzip_dir: artifacts/data_ingestion
 
 
@@ -17,3 +17,6 @@ prepare_base_model:
 training:
   root_dir: artificats/training
   trained_model_path: artifacts/training/model.h5
+
+
+  
