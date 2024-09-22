@@ -5,8 +5,8 @@ stages:
     deps:
     - path: config/config.yaml
       hash: md5
-      md5: ffcaab33f7783944bb1da2dd3822b2f0
-      size: 593
+      md5: 14c8e44005ab534097873ecac5c98b42
+      size: 677
     - path: src/kidneyDisease/pipeline/stage_01_data_ingestion.py
       hash: md5
       md5: 19d24cdec54c1356e7889b7f349f00f1
@@ -22,12 +22,12 @@ stages:
     deps:
     - path: config/config.yaml
       hash: md5
-      md5: ffcaab33f7783944bb1da2dd3822b2f0
-      size: 593
+      md5: 14c8e44005ab534097873ecac5c98b42
+      size: 677
     - path: src/kidneyDisease/pipeline/stage_02_prepare_base_model.py
       hash: md5
-      md5: 0c41f9ce4959e0ca6aabaf03c5cd650e
-      size: 1124
+      md5: 574b8bb36c15c7ed4edd004d1a4dc5d6
+      size: 2113
     params:
       params.yaml:
         CLASSES: 4
@@ -39,11 +39,10 @@ stages:
         LEARNING_RATE: 0.01
         WEIGHTS: imagenet
     outs:
-    - path: artifacts/prepare_base_model
+    - path: artifacts/prepare_base_model/base_model_updated.h5
       hash: md5
-      md5: 9f1ecdfd1a0394c6552dbaa39a18b390.dir
-      size: 118254904
-      nfiles: 2
+      md5: 777ced0e9d191c0dd979b2244f9ef779
+      size: 59742192
   training:
     cmd: python src/kidneyDisease/pipeline/stage_03_model_training.py
     deps:
@@ -54,13 +53,13 @@ stages:
       nfiles: 5476
     - path: artifacts/prepare_base_model
       hash: md5
-      md5: 9f1ecdfd1a0394c6552dbaa39a18b390.dir
-      size: 118254904
+      md5: 84f3f0004fc06e9e4284c00222dd262f.dir
+      size: 118662616
       nfiles: 2
     - path: config/config.yaml
       hash: md5
-      md5: ffcaab33f7783944bb1da2dd3822b2f0
-      size: 593
+      md5: 14c8e44005ab534097873ecac5c98b42
+      size: 677
     - path: src/kidneyDisease/pipeline/stage_03_model_training.py
       hash: md5
       md5: ebb224fff3119cbec5922e37ec646b1b
@@ -69,7 +68,7 @@ stages:
       params.yaml:
         AUGMENTATION: true
         BATCH_SIZE: 16
-        EPOCHS: 9
+        EPOCHS: 8
         IMAGE_SIZE:
         - 224
         - 224
@@ -77,8 +76,8 @@ stages:
     outs:
     - path: artifacts/training/model.h5
       hash: md5
-      md5: 6ad1d50ab36a9647bee6f9f12bf3f3ed
-      size: 118619440
+      md5: 77fee992a0d81cf8c153f9c5056d6d33
+      size: 178715632
   evaluation:
     cmd: python src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py
     deps:
@@ -89,12 +88,12 @@ stages:
       nfiles: 5476
     - path: artifacts/training/model.h5
       hash: md5
-      md5: 6ad1d50ab36a9647bee6f9f12bf3f3ed
-      size: 118619440
+      md5: 77fee992a0d81cf8c153f9c5056d6d33
+      size: 178715632
     - path: config/config.yaml
       hash: md5
-      md5: ffcaab33f7783944bb1da2dd3822b2f0
-      size: 593
+      md5: 14c8e44005ab534097873ecac5c98b42
+      size: 677
     - path: src/kidneyDisease/pipeline/stage_4_Model_Evaluation.py
       hash: md5
       md5: fd859024bb89529cdf49d9ed38706c7e
@@ -109,5 +108,5 @@ stages:
     outs:
     - path: score.json
       hash: md5
-      md5: 1009cfc5ec85531305b7807f986b712c
-      size: 41
+      md5: 0452dfd92443c78a949b8052f0c008ad
+      size: 56
