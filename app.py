@@ -9,7 +9,7 @@ def main():
     st.title("Kidney Disease Classification")
 
     # Upload an image
-    uploaded_image = st.file_uploader("Choose a CT Scan image...", type=["jpg", "jpeg", "png"])
+    uploaded_image = st.file_uploader("This model train by tumor,crystal,stone,and normal kidney ct-scans \n\n  Choose a CT Scan image...", type=["jpg", "jpeg", "png"])
 
     if uploaded_image is not None:
         # Save the uploaded image to a temporary path
