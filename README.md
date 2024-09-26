@@ -90,14 +90,14 @@ Workflows
 
 
 
-![alt text](Media/Screenshot from 2024-09-26 13-56-24.png)
+![alt text](https://github.com/shameem11/kidney-disease-ct-scan-deep-learning--End-to-End-Project/blob/main/Media/Screenshot%20from%202024-09-26%2013-56-24.png)
 
 
-![alt text](Media/Screenshot from 2024-09-26 13-56-37.png)
+![alt text](https://github.com/shameem11/kidney-disease-ct-scan-deep-learning--End-to-End-Project/blob/main/Media/Screenshot%20from%202024-09-26%2013-56-37.png)
 
 
 
-![alt text](Media/Screenshot from 2024-09-26 13-56-51.png)
+![alt text](https://github.com/shameem11/kidney-disease-ct-scan-deep-learning--End-to-End-Project/blob/main/Media/Screenshot%20from%202024-09-26%2013-56-51.png)
 
 
-![alt text](Media/Screenshot from 2024-09-26 14-13-06.png)
+![alt text](https://github.com/shameem11/kidney-disease-ct-scan-deep-learning--End-to-End-Project/blob/main/Media/Screenshot%20from%202024-09-26%2014-13-06.png)
